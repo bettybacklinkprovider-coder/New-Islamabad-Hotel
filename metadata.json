@@ -1,0 +1,6 @@
+{
+  "name": "New Islamabad Hotel",
+  "description": "Experience comfort, elegance & warm Pakistani hospitality at New Islamabad Hotel in G-7 Markaz, Islamabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
